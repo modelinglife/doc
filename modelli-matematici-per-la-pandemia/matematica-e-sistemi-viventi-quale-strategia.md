@@ -50,6 +50,12 @@ graph TD
     B --> F[Calcolo scientifico e simulazioni]
     D[Modelli di azioni esterne] --> B
     E --> H[Validazione modelli e applicazioni]
+    H --> E
+    F --> E
+    E --> F
+    E --> C
+    C --> E
+   
 
   
 ```
