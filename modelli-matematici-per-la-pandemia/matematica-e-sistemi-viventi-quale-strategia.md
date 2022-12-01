@@ -41,25 +41,6 @@ Queste caratteristiche di complessità implicano che la modellizzazione richiede
 
 La descrizione del processo di modellizzazione andrebbe formalizzata aggiungendo alla descrizione qualitativa ulteriori dettagli analitici che conducano al modello. Il lettore interessato a questi aspetti troverà una descrizione esaustiva, in tutti gli aspetti tecnici, nell’articolo scientifico [\[3\]](riferimenti-bibliografici.md) disponibile (open access). Invece, questa presentazione vuole essere divulgativa, rivolta a un insieme ampio di lettori, indirizzando le questioni tecniche ai settori specifici di ricerca e cercando invece di comprendere come possa essere sviluppato il dialogo fra scienze matematiche e biologiche.  Tutto ciò rimanendo  a  livello di descrizione qualitativa, comunque sufficiente a comprendere la logica seguita nella derivazione di modelli di sistemiviventi. La figura 1 propone un diagramma a blocchi che percorre in sequenza i passi dall’osservazione del sistema alla loro derivazione.
 
-```mermaid
-graph TD
-    G[Modelli di interazioni scala micro] --> B
-    A[Fenomenologia, complessità, scale, rappresentazione] ---> B[Strutture matematiche sistemi viventi]
-    B --> C[Problemi matematici analitici]
-    B --> E[Derivazioni e modelli matematici]
-    B --> F[Calcolo scientifico e simulazioni]
-    D[Modelli di azioni esterne] --> B
-    E --> H[Validazione modelli e applicazioni]
-    H --> E
-    F --> E
-    E --> F
-    E --> C
-    C --> E
-   
-
-  
-```
-
 ![Figura 1 - Strategia verso la derivazione di modelli di sistemi viventi](<../.gitbook/assets/Schermata 2022-01-23 alle 12.20.35 (1).png>)
 
 Da questa strategia è nata una nuova generazione di modelli matematici che si contrappone a quelli classici della dinamica delle popolazioni, ove il legame fra causa ed effetto non tiene sufficientemente conto delle caratteristiche di complessità prima definite. In proposito, è giusto chiedersi se il percorso presentato nella figura 1 rappresenti una svolta reale rispetto all’approccio tradizionale criticato da Wigner [\[16\]](riferimenti-bibliografici.md). La risposta è nel paragrafo che segue.
