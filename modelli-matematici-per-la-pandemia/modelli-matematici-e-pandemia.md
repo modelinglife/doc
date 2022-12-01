@@ -16,7 +16,7 @@ Dalle  **ipotesi  1–5** si   comprende che il sistema immunitario ha un ruolo 
 
  
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-12-01 alle 14.57.25 (1).png" alt=""><figcaption><p>​​Figura 2b. Azione del virus.<br></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2022-12-01 alle 14.57.25.png" alt=""><figcaption><p>​​Figura 2b. Azione del virus.<br></p></figcaption></figure>
 
 </div>
 
@@ -68,18 +68,37 @@ La figura 7 visualizza il ruolo di un processo di vaccinazione che corrisponde a
 
 ### Interpretazione dei risultati
 
-Queste simulazioni, ed il complesso di quelle che sono state prodotte dal team di lavoro [\[2, 4\]](riferimenti-bibliografici.md), conduce alle seguenti indicazioni:
+Queste simulazioni, e il complesso di quelle che sono state prodotte dal team di lavoro [\[2, 4\]](riferimenti-bibliografici.md), conduce alle seguenti indicazioni:
 
 * Anche dopo un elevato distanziamento, il virus continua a circolare e riprende vigore infettivo nell’onda successiva. Non appena il  distanziamento è allentato la seconda onda risulta tanto più dannosa quanto maggiore è la riduzione di quest’ultimo.
-* La variante è di  norma più aggressiva del virus primario ed è predominante, soprattutto nella seconda onda. La riduzione del distanziamento contribuisce al predominio della variante.
+* La variante è di norma più aggressiva del virus primario ed è predominante, soprattutto nella seconda onda. La riduzione del distanziamento contribuisce al predominio della variante.
 * Un piano di vaccinazione continuo riduce di molto, soprattutto nella seconda onda, il numero degli infetti. Tuttavia, non annulla la  circolazione del virus. Questo riprenderà nel momento in cui il distanziamento sarà rilassato (o peggio annullato).
 * Un piano di vaccinazione non elimina il predominio della variante. Il modello indica come sia possibile anche il contagio dei vaccinati. Questi tuttavia richiedono livelli inferiori di terapia. Inoltre, il modello indica come la circolazione del virus porta all’infezione dei  vaccinati quantitativamente più intensa quanto più circola  l’infezione del virus.
+
+### I modelli e le varianti
+
+Lo studio delle varianti ha richiesto un’attenzione particolare, anche da parte della ricerca matematica. Abbiamo assistitoall’insorgere e al predominio della variante _Delta_. I vaccini attualmente presenti sono in grado di attivare il sistema immunitario contro questo tipo di virus attualmente dominate. I modelli matematici hanno mostrato capacità di descrivere la complessa dinamica sia in assenza sia in presenza di piani di vaccinazione.
+
+Attualmente stiamo osservando la crescita della variante Omicron. Questa presenta caratteristiche nuove quali una maggiore azione infettiva e capacità di sottrarsi all’azione dei vaccini attualmente disponibili. Questa variante e caratterizzata da un numero elevato di mutazioni e i primi studi indicano casi di seconda infezione a un primo contagio dal virus primario o anche dalla variante Delta.
+
+Forse, quest’ultima variante presenta una minore capacità di sviluppare patologie gravi, ma i dati attualmente disponibili non sono certi. Anche questa è una sfida scientifica sulla quale i gruppi di lavoro, che operano sul progetto <mark style="color:red;">menzionato nel seguito</mark>, sono attulamete impegnati a produrre un simulatore che tenga conto anche di dinamiche alla scala molecolare. Anche in questo caso, la ricerca matematica va sviluppata sulla base di collaborazioni interdisciplinari. <mark style="color:red;">Qui, matematica e virologia</mark>.
+
+Una congettura sulla quale ragionare, è che sia maggiormente invasiva, ma allo stesso tempo più vulnerabile dall’azione del sistema immunitatio. Supponendo che questa caratteristica di Omicron sia confermata (i primi dati supportano questa ipotesi), le simulazioni confermano il ruolo chiave dei programmi di vaccinazione per indebolire progressivamente l’azione del virus, ma indicano anche la necessità di gestire una situazione di elevato numero di infetti, in particolare i non vaccinati.
+
+I primi dati indicano che la variante Omicron ha preso il sopravvento, in termini di soggetti infetti, sulla variante Delta. Inoltre la patologia indotta da Omicron è meno grave di quella indotta da Delta. In attesa di dati che confermino a livello statistico quanto abbiamo affermato, osserviamo che i modelli matematici ai quali facciamo riferimento sono in grado di simulare gli scenari possibili della dinamica del processo infettivo anche in riferimento a processi di vaccinazione.
+
+Più in generale, occorre tener conto che le dinamiche particolari sulle quali la ricerca scientifica ha posto un notevole impegno di risorse umane e finanziarie si inseriscono in un complesso sistema di interazioni che coinvolgono ambiti diversi,in particolare sistemi sociali, economici, sistemi di mobilità e trasporto, e quindi strutture ospedaliere. La figura 9 illustra il complesso sistema di interazioni del quale occorre tener conto in una dinamicache possiamo definire globale.
+
+<figure><img src="../.gitbook/assets/Screenshot 2022-12-01 alle 15.49.09.png" alt=""><figcaption><p>Figura 9. Flow chart of the systems approach to the global dynamics</p></figcaption></figure>
+
+Da tutti i temi trattati in questa sezione emerge l’esigenza di lavoro interdisciplinare fra matematica e biologia-medicina, tenendo conto anche della necessità di un dialogo fra scienze matematiche e responsabili delle situazioni di crisi.
 
 ### Ulteriori sviluppi della ricerca
 
 A conclusione di questa sezione, è utile chiedersi come la ricerca potrebbe (dovrebbe) ulteriormente svilupparsi. Proponiamo di indirizzare il focus su tre punti, fra i vari possibili. Di questi il terzo è quello maggiormente utile al dialogo con la società.
 
-1. Approfondire lo studio della complessa interazione fra virus e risposta immunitaria, tenendo conto dell’eterogeneità soggettiva della risposte del sistema stesso.
-2. Costruire un simulatore della dinamica del virus sui tessuti di organi, in particolare il polmone, tenendo conto di come il virus ne altera le proprietà. Studi in tal senso sono stati sviluppati in riferimento alla fibrosi polmonare [\[6\]](riferimenti-bibliografici.md), vedi figure 9 e 10 che visualizzano, in rosso, il progredire del deterioramento del tessuto polmonare a causa dell’azione del virus.
-3. Utilizzare i modelli attualmente disponibili per sviluppare un simulatore della risposta del sistema tenendo conto delle esigenze del processo decisionale dei gestori dei problemi di crisi. Il simulatore potrà poi essere strutturato come strumento di intelligenza artificale a supporto del processo decisionale.
+* [ ] Approfondire lo studio della complessa interazione fra virus e risposta immunitaria, tenendo conto dell’eterogeneità soggettiva della risposte del sistema stesso.
+* [ ] Costruire un simulatore della dinamica del virus sui tessuti di organi, in particolare il polmone, tenendo conto di come il virus ne altera le proprietà. Studi in tal senso sono stati sviluppati in riferimento alla fibrosi polmonare [\[6\]](riferimenti-bibliografici.md), vedi figura 8 che visualizzano, in rosso, il progredire del deterioramento del tessuto polmonare a causa dell’azione del virus.
+* [ ] Utilizzare i modelli attualmente disponibili per sviluppare un simulatore della risposta del sistema tenendo conto delle esigenze del processo decisionale dei gestori dei problemi di crisi. Il simulatore potrà poi essere strutturato come strumento di intelligenza artificale a supporto del processo decisionale.
 
+<figure><img src="../.gitbook/assets/Screenshot 2022-12-01 alle 15.48.55.png" alt=""><figcaption><p>Figura 8. Deterioramento progressivo del parenchima.</p></figcaption></figure>
