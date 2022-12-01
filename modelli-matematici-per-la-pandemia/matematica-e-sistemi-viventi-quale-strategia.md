@@ -43,11 +43,14 @@ La descrizione del processo di modellizzazione andrebbe formalizzata aggiungendo
 
 ```mermaid
 graph TD
-  A[Fenomenologia, complessità, scale, rappresentazione] --> B[Strutture matematiche sistemi viventi]
+    G[Modelli di interazioni scala micro] --> B
+    A[Fenomenologia, complessità, scale, rappresentazione] ---> B[Strutture matematiche sistemi viventi]
     B --> C[Problemi matematici analitici]
-    B ---> F[Derivazioni e modelli matematici]
-    B --> E[Calcolo scientifico e simulazioni]
-    D --> B[e]
+    B --> E[Derivazioni e modelli matematici]
+    B --> F[Calcolo scientifico e simulazioni]
+    D[Modelli di azioni esterne] --> B
+    E --> H[Validazione modelli e applicazioni]
+
   
 ```
 
