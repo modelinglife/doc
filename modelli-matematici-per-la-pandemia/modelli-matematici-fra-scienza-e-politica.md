@@ -10,7 +10,7 @@ Lo studio trattato nella [sezione precedente](modelli-matematici-e-pandemia.md) 
 
 Pertanto, abbiamo visto come le previsioni fornite dal modello possano essere supporto agli esperti che hanno il compito, anche politico, di sviluppare strategie a mitigare i danni in situazioni di crisi quali l’ultima pandemia.&#x20;
 
-Su questi due punti proponiamo alcune considerazioni che nascono anche da esperienze specifiche di progetti a livello europeo nei qualiuno degli autori è stato coinvolto.Difficile trarre conclusioni, ci limitiamo quindi a individuare prospettive che meritano riflessioni e interventi di chi governa la nazione.
+Su questi due punti proponiamo alcune considerazioni che nascono anche da esperienze specifiche di progetti a livello europeo nei qualiuno degli autori è stato coinvolto. Difficile trarre conclusioni, ci limitiamo quindi a individuare prospettive che meritano riflessioni e interventi di chi governa la nazione.
 
 ## **Interazioni scientifiche**
 

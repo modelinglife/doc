@@ -68,7 +68,7 @@ La figura 7 visualizza il ruolo di un processo di vaccinazione che corrisponde a
 
 ## Interpretazione dei risultati
 
-Queste simulazioni, e il complesso di quelle che sono state prodotte dal team di lavoro [\[2, 4\]](riferimenti-bibliografici.md), conduce alle seguenti indicazioni:
+Queste simulazioni, e il complesso di quelle che sono state prodotte dal [team](collaborazioni.md) di lavoro [\[2, 4\]](riferimenti-bibliografici.md), conduce alle seguenti indicazioni:
 
 * Anche dopo un elevato distanziamento, il virus continua a circolare e riprende vigore infettivo nell’onda successiva. Non appena il  distanziamento è allentato la seconda onda risulta tanto più dannosa quanto maggiore è la riduzione di quest’ultimo.
 * La variante è di norma più aggressiva del virus primario ed è predominante, soprattutto nella seconda onda. La riduzione del distanziamento contribuisce al predominio della variante.

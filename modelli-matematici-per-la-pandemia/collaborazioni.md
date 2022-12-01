@@ -1,21 +1,29 @@
 # Collaborazioni
 
-Le ricerche trattate in questo articolo sono state rese possibli dalla collaborazione degli autori di questo articolo con unampio Team iterdisciplinare:
+Le ricerche trattate in questo articolo sono state rese possibli dalla collaborazione degli autori di questo articolo con un ampio team iterdisciplinare:
 
-Richard Bingham, University of York, U.K.; Diletta Burini, Univ. Perugia, Italy;
+Richard Bingham, University of York, U.K.
 
-Mark A.J. Chaplain, University of St Andrews, Scotland, U.K.; Giovanni Dosi, Scuola SuperioreSant’Anna, Pisa, Italy;
+Diletta Burini, Univ. Perugia, Italy
 
-Guido Forni, Accademia Nazionale dei Lincei, Roma, Italy; Livio Gibelli, University of Edinburgh, Scotland, U.K.; Damian A. Knopoff, BCAM, Bilbao, Spain;
+Mark A.J. Chaplain, University of St Andrews, Scotland, U.K.
 
-John Lowengrub, University California Irvine, USA;
+Giovanni Dosi, Scuola SuperioreSant’Anna, Pisa, Italy
 
-Nisrine Outada, IRD-Sorbonne, France and Cadi Ayyad University, Morocco;
+Guido Forni, Accademia Nazionale dei Lincei, Roma, Italy; Livio Gibelli, University of Edinburgh, Scotland, U.K.
 
-Annalisa Quaini, University of Houston. Houston TX 77204, USA; Alessandro Reali, University of Pavia, Italy;
+Damian A. Knopoff, BCAM, Bilbao, Spain
 
-Reidun Twarock, University of York, U.K.;
+John Lowengrub, University California Irvine, USA
 
-Maria Enrica Virgillito, Scuola Superiore Sant’Anna, Pisa, Italy.
+Nisrine Outada, IRD-Sorbonne, France and Cadi Ayyad University, Morocco
 
-_A tutti va il ringraziamento da parte degli autori di questo articolo_.
+Annalisa Quaini, University of Houston. Houston TX 77204, USA
+
+Alessandro Reali, University of Pavia, Italy
+
+Reidun Twarock, University of York, U.K.
+
+Maria Enrica Virgillito, Scuola Superiore Sant’Anna, Pisa, Italy
+
+A tutti va il ringraziamento da parte degli autori di questo articolo.

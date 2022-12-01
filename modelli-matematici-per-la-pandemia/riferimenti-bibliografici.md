@@ -9,7 +9,7 @@
 7. I. Kant, Critique of the Power of Judgement, English translation, Cambridge University Press, (2002).
 8. H.L. Hartwell, J.J. Hopfield, S. Leibler, and A.W. Murray, From molecular to modular cell biology Nature, 402, c47–c52, (1999).
 9. E. Mayr, Biologia ed Evoluzione; Traduzione da “La biologie de l’evolution”, Hermann Editor, Paris. Boringhieri Editore, Torino, (1981).
-10. P. Musiani and G. Forni, Basic Immunology 2019, Issuu, (2019), https://issuu.com/guidoforni5/docs/2019i.
+10. P. Musiani and G. Forni, Basic Immunology 2019, Issuu, (2019), [https://issuu.com/guidoforni5/docs/2019i](https://issuu.com/guidoforni5/docs/2019i).
 11. E. Schrödinger, What is Life? The Physical Aspect of the Living Cell, Cambridge University Press, Cambridge, (1944).
 12. N. N. Taleb, The Black Swan: The Impact of the Highly Improbable, Random House, New York City, (2007).
 13. P.Vineis, L.Carra e R.Cingolani, PREVENIRE, Manifesto per una tecnopolitica, Giulio Einaudi Editore, (2020).
