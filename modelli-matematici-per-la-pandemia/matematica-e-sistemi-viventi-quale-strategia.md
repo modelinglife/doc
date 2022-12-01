@@ -42,6 +42,13 @@ Queste caratteristiche di complessità implicano che la modellizzazione richiede
 La descrizione del processo di modellizzazione andrebbe formalizzata aggiungendo alla descrizione qualitativa ulteriori dettagli analitici che conducano al modello. Il lettore interessato a questi aspetti troverà una descrizione esaustiva, in tutti gli aspetti tecnici, nell’articolo scientifico [\[3\]](riferimenti-bibliografici.md) disponibile (open access). Invece, questa presentazione vuole essere divulgativa, rivolta a un insieme ampio di lettori, indirizzando le questioni tecniche ai settori specifici di ricerca e cercando invece di comprendere come possa essere sviluppato il dialogo fra scienze matematiche e biologiche.  Tutto ciò rimanendo  a  livello di descrizione qualitativa, comunque sufficiente a comprendere la logica seguita nella derivazione di modelli di sistemiviventi. La figura 1 propone un diagramma a blocchi che percorre in sequenza i passi dall’osservazione del sistema alla loro derivazione.
 
 ```mermaid
+graph TD
+  A[Fenomenologia, complessità, scale, rappresentazione] --> B[Strutture matematiche sistemi viventi]
+    B --> C[Problemi matematici analitici]
+    B ---> F[Derivazioni e modelli matematici]
+    B --> E[Calcolo scientifico e simulazioni]
+    D --> B[e]
+  
 ```
 
 ![Figura 1 - Strategia verso la derivazione di modelli di sistemi viventi](<../.gitbook/assets/Schermata 2022-01-23 alle 12.20.35 (1).png>)
