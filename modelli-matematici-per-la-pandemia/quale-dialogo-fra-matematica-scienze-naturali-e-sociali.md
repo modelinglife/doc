@@ -1,3 +1,7 @@
+---
+description: Risposta al terzo quesito
+---
+
 # Quale dialogo fra matematica scienze naturali e sociali?
 
 La costruzione di un modello matematico non conclude il processo in quanto occorre sia validare il modello, sia aprire un dialogo fra scienze matematiche e i ricercatori che potrebbero diventare utenti del modello stesso. Per quanto riguarda la validazione dei modelli, è utile distinguere fra modelli esplorativi e modelli predittivi. Inoltre, occorre definire le condizioni che consentono di sviluppare le simulazioni che conducono ai comportamenti emergenti del sistema. In matematica, si usano i termini condizioni iniziali ed al contorno per definite queste condizioni. In sintesi:

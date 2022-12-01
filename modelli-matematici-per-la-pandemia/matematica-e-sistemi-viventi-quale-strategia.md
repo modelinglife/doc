@@ -1,20 +1,28 @@
+---
+description: Risposta al secondo quesito
+---
+
 # Matematica e sistemi viventi: quale strategia?
 
 I sistemi viventi si manifestano con dinamiche fondamentalmente diverse da quelle che caratterizzano la materia inerte. Pertanto, non è possibile avvalersi di teorie fisiche che pongano deterministicamente in relazione causa ed effetto. Quindi, la ricerca di una teoria matematica dei sistemi viventi richiede l’elaborazione di una strategia che conduca a un quadro concettuale di riferimento che possa sostituire quello offerto dalle teorie fisiche della materia inerte (dalla meccanica di Newton alle teorie relativistiche e quantistiche).
 
-**Immanuel Kant** (1724–1804) cercò di elaborare una teoria dei sistemi viventi ed a lui dobbiamo la seguente definizione:
+**Immanuel Kant** (1724–1804) cercò di elaborare una teoria dei sistemi viventi e a lui dobbiamo la seguente definizione:
 
-`Strutture speciali, organizzate e con la capacità di perseguire uno scopo.` [\[8\]](riferimenti-bibliografici.md)
+> Strutture speciali, organizzate e con la capacità di perseguire uno scopo. [\[9\]](riferimenti-bibliografici.md)
 
-Gli stessi concetti sono ripresi circa due secoli dopo, da **Lee Hartwell** (1939-), premio Nobel, che osserva quanto segue:
+Gli stessi concetti sono ripresi circa due secoli dopo, da **Lee Hartwell** (1939), premio Nobel, che osserva quanto segue:
 
-`Sebbene i sistemi viventi obbediscano alle leggi della fisica e della chimica, la nozione di funzione o scopo differenzia la biologia dalle altre scienze naturali. Le cellule infatti non sono molecole, ma hanno una dinamica vivente indotta dalla scala inferiore dei geni.` [\[9\]](riferimenti-bibliografici.md)
+> Sebbene i sistemi viventi obbediscano alle leggi della fisica e della chimica, la nozione di funzione o scopo differenzia la biologia dalle altre scienze naturali. Le cellule infatti non sono molecole, ma hanno una dinamica vivente indotta dalla scala inferiore dei geni. [\[10\]](riferimenti-bibliografici.md)
 
-Il concetto fondamentale di questa frase riguarda la capacità delle cellule di organizzarsi in strutture, tessuti ed organi. Questa idea apre la ricerca sui complessi legami fra la scale molecolare dei geni e cellule ove la dinamica alla scala cellulare è indotta dalla dinamica, alla scala molecolare. Questa visione generale è riferibile a tutti i sistemi viventi.
+Il concetto fondamentale di questa frase riguarda la capacità delle cellule di organizzarsi in strutture, tessuti ed organi. Questa idea apre la ricerca sui complessi legami fra la scale molecolare dei geni e quella delle cellule ove la dinamica alla scala cellulare è indotta dalla dinamica, alla scala molecolare dei geni. I soggetti in ciascuna scala interagiscono fra loro, mentre la dinamica alla scala molecolare modifica per proprietà delle cellule che, a loro volta, interagiscono fra loro con regole di interazione indotte dalla scala inferiore. Questa visione multiscala è riferibile a tutti i sistemi viventi.
 
-Va riconosciuto a **Erwin Schrödinger** (1887–1961) il merito di aver introdotto il concetto di mutazioni [\[12\]](riferimenti-bibliografici.md) di aver cercato un approccio a scale diverse. Questo concetto è ancora oggi riferimento chiave a supporto delle interazioni tra matematica e biologia. Infatti, la derivazione di un teoria matematica dei sistemi viventi richiede la comprensione del legame tra le dinamiche alla scala molecolare dei geni e le funzioni espresse a livello delle cellule.
+Va riconosciuto ad **Erwin Schrödinger** (1887–1961) il merito di aver introdotto il concetto di mutazioni [\[13\]](riferimenti-bibliografici.md) e di averconsiderato interazioni fra scale diverse.
 
-Troviamo un’idea alternativa in [\[1\]](riferimenti-bibliografici.md), ove la derivazione dei modelli matematici è riferita ad una struttura matematica in grado di includere le principali caratteristiche di complessità dei sistemi viventi. Quali caratteristiche? Una selezione è necessaria in quanto non possiamo ingenuamente pensare di includerle tutte. Una proposta è quella di riferirsi alle cinque caratteristiche indicate nel seguito.
+Questo concetto è ancora oggi il riferimento chiave a supporto delle interazioni tra matematica e biologia. Infatti, la derivazione di un teoria matematica dei sistemi viventi richiede la comprensione del legame tra le dinamiche alla scala molecolare dei geni e le funzioni espresse a livello delle cellule.
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Immanuel Kant</td><td></td><td></td><td><a href="../.gitbook/assets/Screenshot 2022-12-01 alle 12.57.26.png">Screenshot 2022-12-01 alle 12.57.26.png</a></td></tr><tr><td>Erwin Schrodinger</td><td></td><td></td><td></td></tr><tr><td>Leland Hartwell</td><td></td><td></td><td></td></tr></tbody></table>
+
+Indubbiamente, gli autori prima citati rappresentano il riferimento fondamentale anche per noi, autori di questo articolo. Troviamo un’idea, indubbiamente meno ambiziosa, ma che fornisce una risposta operativa alle osservazioni di Hartwell, in [\[1\]](riferimenti-bibliografici.md), ove la derivazione dei modelli matematici è riferita ad una struttura matematica in grado di includere le principali caratteristiche di complessità dei sistemi viventi. Quali caratteristiche? Una selezione è necessaria in quanto non possiamo ingenuamente pensare di includerle tutte. Una proposta è quella di riferirsi alle cinque caratteristiche indicate nel seguito.
 
 #### Capacità di esprimere una strategia
 
