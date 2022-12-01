@@ -66,7 +66,7 @@ La figura 7 visualizza il ruolo di un processo di vaccinazione che corrisponde a
 **Osservazione.** Anche in questo caso, il modello matematico è in grado di visualizzare non solo l’andamento nel tempo del numero di infetti, ma anche del livello di infezione e quindi sul livello di ospedalizzazione, fino a individuare la necessità diterapia intensiva e i decessi.
 {% endhint %}
 
-### Interpretazione dei risultati
+## Interpretazione dei risultati
 
 Queste simulazioni, e il complesso di quelle che sono state prodotte dal team di lavoro [\[2, 4\]](riferimenti-bibliografici.md), conduce alle seguenti indicazioni:
 
@@ -75,9 +75,9 @@ Queste simulazioni, e il complesso di quelle che sono state prodotte dal team di
 * Un piano di vaccinazione continuo riduce di molto, soprattutto nella seconda onda, il numero degli infetti. Tuttavia, non annulla la  circolazione del virus. Questo riprenderà nel momento in cui il distanziamento sarà rilassato (o peggio annullato).
 * Un piano di vaccinazione non elimina il predominio della variante. Il modello indica come sia possibile anche il contagio dei vaccinati. Questi tuttavia richiedono livelli inferiori di terapia. Inoltre, il modello indica come la circolazione del virus porta all’infezione dei  vaccinati quantitativamente più intensa quanto più circola  l’infezione del virus.
 
-### I modelli e le varianti
+## I modelli e le varianti
 
-Lo studio delle varianti ha richiesto un’attenzione particolare, anche da parte della ricerca matematica. Abbiamo assistitoall’insorgere e al predominio della variante _Delta_. I vaccini attualmente presenti sono in grado di attivare il sistema immunitario contro questo tipo di virus attualmente dominate. I modelli matematici hanno mostrato capacità di descrivere la complessa dinamica sia in assenza sia in presenza di piani di vaccinazione.
+Lo studio delle varianti ha richiesto un’attenzione particolare, anche da parte della ricerca matematica. Abbiamo assistito all’insorgere e al predominio della variante _Delta_. I vaccini attualmente presenti sono in grado di attivare il sistema immunitario contro questo tipo di virus attualmente dominate. I modelli matematici hanno mostrato capacità di descrivere la complessa dinamica sia in assenza sia in presenza di piani di vaccinazione.
 
 Attualmente stiamo osservando la crescita della variante Omicron. Questa presenta caratteristiche nuove quali una maggiore azione infettiva e capacità di sottrarsi all’azione dei vaccini attualmente disponibili. Questa variante e caratterizzata da un numero elevato di mutazioni e i primi studi indicano casi di seconda infezione a un primo contagio dal virus primario o anche dalla variante Delta.
 
@@ -87,13 +87,15 @@ Una congettura sulla quale ragionare, è che sia maggiormente invasiva, ma allo 
 
 I primi dati indicano che la variante Omicron ha preso il sopravvento, in termini di soggetti infetti, sulla variante Delta. Inoltre la patologia indotta da Omicron è meno grave di quella indotta da Delta. In attesa di dati che confermino a livello statistico quanto abbiamo affermato, osserviamo che i modelli matematici ai quali facciamo riferimento sono in grado di simulare gli scenari possibili della dinamica del processo infettivo anche in riferimento a processi di vaccinazione.
 
-Più in generale, occorre tener conto che le dinamiche particolari sulle quali la ricerca scientifica ha posto un notevole impegno di risorse umane e finanziarie si inseriscono in un complesso sistema di interazioni che coinvolgono ambiti diversi,in particolare sistemi sociali, economici, sistemi di mobilità e trasporto, e quindi strutture ospedaliere. La figura 9 illustra il complesso sistema di interazioni del quale occorre tener conto in una dinamica che possiamo definire globale.
+Più in generale, occorre tener conto che le dinamiche particolari sulle quali la ricerca scientifica ha posto un notevole impegno di risorse umane e finanziarie si inseriscono in un complesso sistema di interazioni che coinvolgono ambiti diversi,in particolare sistemi sociali, economici, sistemi di mobilità e trasporto, e quindi strutture ospedaliere.&#x20;
+
+La figura 9 illustra il complesso sistema di interazioni del quale occorre tener conto in una dinamica che possiamo definire globale.
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-12-01 alle 15.49.09.png" alt=""><figcaption><p>Figura 9. Diagramma di flusso delle interazioni in una dinamica globale.</p></figcaption></figure>
 
 Da tutti i temi trattati in questa sezione emerge l’esigenza di lavoro interdisciplinare fra matematica e biologia-medicina, tenendo conto anche della necessità di un dialogo fra scienze matematiche e responsabili delle situazioni di crisi.
 
-### Ulteriori sviluppi della ricerca
+## Ulteriori sviluppi della ricerca
 
 A conclusione di questa sezione, è utile chiedersi come la ricerca potrebbe (dovrebbe) ulteriormente svilupparsi. Proponiamo di indirizzare il focus su tre punti, fra i vari possibili. Di questi il terzo è quello maggiormente utile al dialogo con la società.
 
