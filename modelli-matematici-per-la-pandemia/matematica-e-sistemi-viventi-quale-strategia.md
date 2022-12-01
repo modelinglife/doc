@@ -24,33 +24,27 @@ Questo concetto è ancora oggi il riferimento chiave a supporto delle interazion
 
 Indubbiamente, gli autori prima citati rappresentano il riferimento fondamentale anche per noi, autori di questo articolo. Troviamo un’idea, indubbiamente meno ambiziosa, ma che fornisce una risposta operativa alle osservazioni di Hartwell, in [\[1\]](riferimenti-bibliografici.md), ove la derivazione dei modelli matematici è riferita ad una struttura matematica in grado di includere le principali caratteristiche di complessità dei sistemi viventi. Quali caratteristiche? Una selezione è necessaria in quanto non possiamo ingenuamente pensare di includerle tutte. Una proposta è quella di riferirsi alle cinque caratteristiche indicate nel seguito.
 
-#### Capacità di esprimere una strategia
+**Capacità di esprimere una strategia**. Consideriamo sistemi costituiti da più elementi, generalmente molti, che interagiscono. Lo stato di ciascun elemento è definito non solo da variabili meccaniche, per esempio posizione e velocità, ma anche da variablili aggiuntive idonee adescrivere stati specifici del sistema vivente oggetto di studio. Per esempio: stato sociale, educazione, ma anche variabili espresse a livello biologico. Gli stati sono definiti `attività`, gli elementi interagenti `particelle attive`, mentre il complesso del sistema è definito `materia attiva`. La capacità di sviluppare una strategia è prerogativa delle `attività`.
 
-I sistemi in esame sono costituiti da vari, generalmente molti, elementi che interagiscono. Lo stato di ciascuno di questi è definito non solo da variabili meccaniche, per esempio posizione e velocità, ma da variablili aggiuntive idonee a descrivere stati specifici del sistema vivente oggetto di studio. Per esempio, stato sociale, educazione, ma anche variabili espresse a livello biologico. Questi stati sono attualmente definiti attività, gli elementi interagenti par- ticelle attive, mentre il complesso del sistema è definito materia attiva. La capacità di sviluppare una strategia è prerogativa della attività.
+**Eterogeneità**. I sistemi viventi non sono fra loro identici. Numerose differenze distinguono un soggetto dagli altri. Di conseguenza, anche il comportamento del singolo soggetto differisce da quello degli altri. I modelli matematici non possono trascurare questa caratteristica, ma nello stesso tempo non possono tenere conto di ogni dettaglio. Anticipiamo due aspetti chiave dell’eterogeneità che sono tenuti in conto dai modelli descritti nei paragrafi che seguono:
 
-#### Eterogeneità
+1. Un sistema complessivo può essere suddiviso in sottosistemi costituiti da aggregazioni sociali di particelle attive che condividono sia lo stesso obiettivo, sia la strategianel perseguirlo: si tratta dei `sottosistemi funzionali`.
+2. `Rappresentazione` __ dello stato di ogni sottosistema funzionale mediante una distribuzione di probabilità sulla variabile attività.
 
-I sistemi viventi non sono fra loro identici. Varie differenze differenze distinguono un soggetto dagli altri. Di conseguenza, anche il comportamento del singolo soggett differisce da quello degli altri. I modelli matematici non possono trascurare questa caratteristica, ma nello stesso tempo non possono tenere conto di tutto. Due aspetti chiave dell’eterogeneità sono tenuti in conto dai modelli descritti nel seguito:
+**Nonlinearità additiva nelle interazioni**. Il rapporto causa effetto nei sistemi viventi non è additivo, ma è rielaborato dal soggetto tenendo conto della propria variabile attività
 
-1. Il sistema complessivo può essere suddiviso in sottosistemi costituiti da aggregazioni sociali di particelle attive che condividono sia lo stesso obiettivo e sia la strategia per perseguirlo. Questi sono stati definiti sottosistemi funzionali.
-2. Rappresentazione dello stato di ogni sottosistema funzionale mediante una distribuzione di probabilità sulla variabile attività.
+**Capacità di apprendimento**. I sistemi viventi sono in grado di apprendere e memorizzare elementi acquisiti nella dinamica di apprendimento. Questi modificano la strategia sviluppata dalle particelle attive e, di conseguenza, il rapporto fra causa ed effetto evolve nel tempo.
 
-#### Nonlinearità additiva nelle interazioni
+**Mutazioni e selezioni darwiniane**. Tutti i sistemi viventi sono evolutivi, in quanto i processi di nascita possono generare entità più adatte all’ambiente. Queste, a loro volta, generano nuove entità ancora più adatte all’ambiente che si affermano rispetto a quelle meno adatte.
 
-Il rapporto causa effetto nei sistemi sistemi viventi non è additivo, ma è rielaborato dal soggetto tenendo conto della propria variabile attività.
+Queste caratteristiche di complessità implicano che la modellizzazione richiede sempre un approccio multiscala, con le dinamiche a grande scala che devono essere adeguatamente correlate alle dinamiche alle scale inferiori. Il quadro concettuale è quello della biologia evolutiva con riferimento a Ernst Mayr [\[11\]](riferimenti-bibliografici.md).
 
-#### Capacità di apprendimento
+La descrizione del processo di modellizzazione andrebbe formalizzata aggiungendo alla descrizione qualitativa ulteriori dettagli analitici che conducano al modello. Il lettore interessato a questi aspetti troverà una descrizione esaustiva, in tutti gli aspetti tecnici, nell’articolo scientifico [\[3\]](riferimenti-bibliografici.md) disponibile (open access). Invece, questa presentazione vuole essere divulgativa, rivolta a un insieme ampio di lettori, indirizzando le questioni tecniche ai settori specifici di ricerca e cercando invece di comprendere come possa essere sviluppato il dialogo fra scienze matematiche e biologiche.  Tutto ciò rimanendo  a  livello di descrizione qualitativa, comunque sufficiente a comprendere la logica seguita nella derivazione di modelli di sistemiviventi. La figura 1 propone un diagramma a blocchi che percorre in sequenza i passi dall’osservazione del sistema alla loro derivazione.
 
-I sistemi viventi sono in grado di apprendere e memorizzare elementi acquisiti nella dinamica di apprendimento. Questi modificano la strategia sviluppata dalle particelle attive e, di conseguenza, il rapporto fra causa ed effetto evolve nel tempo. Infatti,
+A\[Start] --> B{Is it?} B -- Yes --> C\[OK] C --> D\[Rethink] D --> B B -- No ----> E\[End]
 
-#### Mutazioni e selezioni Darwiniane
+<img src="../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
 
-Tutti i sistemi viventi sono evolutivi, in quanto i processi di nascita possono generare entità più adatte all’ambiente. Queste, a loro volta, generano nuove entità ancora più adatte all’ambiente che si affermano rispetto a quelle meno adatte.
-
-Queste caratteristiche di complessità, implicano che la modellazione ha sempre bisogno di un approccio multiscala, ove le dinamiche a grande scala devono essere adeguatamente correlate alle dinamiche alle scale inferiori. Il quadro concettuale è quello della biologia evolutiva con riferimento a Ernst Mayr [\[10\]](riferimenti-bibliografici.md).
-
-La descrizione del processo di modellizzazione andrebbe formalizzata aggiungendo alla descrizione qualitativa ulteriori dettagli analitici che conducano al modello. Il lettore interessato a questi aspetti troverà una descrizione esaustiva, in tutti gli aspetti tecnici, nell’articolo scientifico [\[3\]](riferimenti-bibliografici.md) disponibile (open access). Invece, l’articolo in corso vuole essere divulgativo, rivolto a un insieme ampio di lettori, indirizzando le questioni tecniche ai settori specifici di ricerca e cercando invece di comprendere come possa essere sviluppato il dialogo fra scienze matematiche e biologiche. Rimanendo a livello di descrizione qualitativa, comunque sufficiente a compendere la logica seguita nella derivazione di modelli di sistemi viventi, la figura 1 propone un diagramma a blocchi che percorre in sequenza i passi dall’osservazione del sistema alla loro derivazione.
+Da questa strategia è nata una nuova generazione di modelli matematici che si contrappone a quelli classici della dinamica delle popolazioni, ove il legame fra causa ed effetto non tiene sufficientemente conto delle caratteristiche di complessità prima definite. In proposito, è giusto chiedersi se il percorso presentato nella figura 1 rappresenti una svolta reale rispetto all’approccio tradizionale criticato da Wigner [\[16\]](riferimenti-bibliografici.md). La risposta è nel paragrafo che segue.
 
 ![Figura 1 - Strategia verso la derivazione di modelli di sistemi viventi](<../.gitbook/assets/Schermata 2022-01-23 alle 12.20.35 (1).png>)
-
-Da questa strategia è nata una nuova generazione di modelli matematici che si contrappone a quelli classici della dinamica delle popolazioni, ove il legame fra causa ed effetto non tiene sufficientemente conto delle caratteritiche di complessità prima definite. In proposito, è giusto chiedersi se il percorso presentato nella figura 1 rappresenti una svolta reale rispetto all’approccio tradizionale criticato da Wigner [\[15\]](riferimenti-bibliografici.md).
